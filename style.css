@@ -18,7 +18,7 @@ body {
 }
 
 .cabecalho {
-  background: #f1667e;
+  background: #4a90e2;
   color: #fff;
   text-align: center;
   padding: 2rem 1rem;
@@ -93,7 +93,7 @@ body {
 .rodape {
   text-align: center;
   padding: 1rem;
-  background: #f1667e;
+  background: #4a90e2;
   color: #fff;
   margin-top: auto;
 }
